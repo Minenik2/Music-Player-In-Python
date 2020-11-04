@@ -14,9 +14,9 @@ create a folder named 'music' (case sensetive) and put all the .wav files you wa
 If you put folders inside the 'music' folder they will act like albums, each folder will be the albumname and it's songs will be the .wav files inside folder
 
 ### Features
-A main playlist for all the music in the 'music folder'
-Folders inside 'music' folder will automatically be converted to albums that have the corrensponding songs in them as the .wav files inside the folders.
-Play any .wav file
+* A main playlist for all the music in the 'music folder'
+* Folders inside 'music' folder will automatically be converted to albums that have the corrensponding songs in them as the .wav files inside the folders.
+* Play any .wav file
 
 ### Restrictions
 This works with only .wav files, simpleaudio does not support .mp3, .flac or any other file format.
